@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyanshu Bisht
 
-### Front-End-Developer
+### Full-Stack-Developer
 
 - 🔭 I'm currently working on **Full Stack Project**
 
